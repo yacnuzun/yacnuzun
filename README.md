@@ -1,16 +1,16 @@
-## Hi there 👋
+# Yalçın Uzun
 
-<!--
-**yacnuzun/yacnuzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET Backend Developer — microservices and financial systems.
 
-Here are some ideas to get you started:
+Working on e-Invoice / GİB integrations, and currently leading the 
+architecture of a multi-tenant pre-accounting platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** .NET 8 · ASP.NET Core · RabbitMQ / MassTransit · 
+Redis · CQRS · Docker · PostgreSQL / MSSQL
+
+**Projects**
+- [SupplyChainQueueSystem](https://github.com/yacnuzun/SupplyChainQueueSystem) — 5-service microservices platform
+- [SurveyApp](https://github.com/yacnuzun/SurveyApp) — 4-service survey platform
+- [ProductCqrsDemo](https://github.com/yacnuzun/ProductCqrsDemo) — CQRS with MediatR
+
+[LinkedIn](https://www.linkedin.com/in/yacnzn/) · [Medium](https://medium.com/@yacn.uzun)
